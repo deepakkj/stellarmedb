@@ -1,0 +1,14 @@
+{
+  "name": "stellar-me-db",
+  "version": "1.0.0",
+  "description": "JSON SB Server to store public key associate with username for Stellar ME application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suresh Durairaj",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "0.12.1"
+  }
+}
